@@ -40,3 +40,4 @@ const Recipe: React.FC<IRecipeProps> = ({ recipeData }) => {
 
 
 export default Recipe;
+export type { IRecipe };
